@@ -1,6 +1,6 @@
 # EXP-8-THRESHOLDING
-## Developed By:NIRMAL N
-## Reg No.: 212223240107
+## Developed By:R.Mohamed Rafi
+## Reg No.: 212224040195
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
